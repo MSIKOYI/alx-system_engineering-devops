@@ -1,2 +1,2 @@
 #!/bin/bash
-ls-lnxa
+ls -al
